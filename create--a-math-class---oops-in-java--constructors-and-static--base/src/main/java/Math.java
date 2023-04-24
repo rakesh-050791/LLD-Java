@@ -2,7 +2,7 @@
 public class Math {
     public static final double PI = 3.14;
 
-    public double getCircleArea(double radius){
+    public static double getCircleArea(int radius){
 //        Scanner myObj = new Scanner(System.in);
 //        System.out.println("Enter radius");
 //        int radius = myObj.nextInt();
