@@ -8,4 +8,5 @@ public class Car implements Comparable<Car> {
     public int compareTo(Car otherCar) {
         return this.Price - otherCar.Price;
     }
+    
 }
